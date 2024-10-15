@@ -21,11 +21,5 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-
-alert: {
-  content: 'Are you looking for the 3.x docs? You can go to them <a href="/3.x">here</a>.',
-  type: 'tip',
-  closeable: true,
-}
 ---
 
